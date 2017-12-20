@@ -1,0 +1,11 @@
+twilio:
+  sid: 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
+  token: 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
+  to_number: '+15555551000'
+  from_number: '+15555551001'
+coinbase:
+  key: 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
+  secret: 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
+config:
+  change_threshold: 0.1
+  update_period: 300
